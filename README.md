@@ -3,4 +3,6 @@ Recently, Netflix has released back-to-back movie titles while also keeping top 
 
 
 
+[Netflix Workbook](https://public.tableau.com/shared/9BSZX7QCH?:display_count=n&:origin=viz_share_link)
+
 <img src="https://github.com/Peaganciara/Netflix_Overview_Tableau/blob/main/Capture%20netflix.JPG" width="450" height="auto" alt="SS 1"/>
